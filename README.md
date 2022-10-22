@@ -44,7 +44,7 @@
 
 #
 ## Filetype
-#### File type digunakan untuk mencari file berdasarkan ekstensinya, ntah itu pdf, txt, atau yang lainnya. Contohnya filetype:pdf maka yang muncul hanyalah situs-situs yang menyediakan file bertipe pdf yang siap untuk didownload.
+#### File type is used to search for files based on their extension, whether it's pdf, txt, or something else. For example filetype:pdf then what appears is only sites that provide pdf-type files that are ready to be downloaded.
 
 #
 # Developing Dork to Get More Accurate Information
